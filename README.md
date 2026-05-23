@@ -48,4 +48,3 @@ Aplicaciones prácticas, agentes multimodales, benchmarks y evaluación de agent
 
 - Los notebooks están ejecutados con outputs visibles en Google Colab.
 - El historial de commits refleja trabajo distribuido durante el periodo del 1 al 20 de mayo de 2026.
-- El curso se realizó en inglés (versión actualizada).
